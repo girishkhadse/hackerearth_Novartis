@@ -10,9 +10,12 @@ Target variable is 'MALICIOUS_OFFENSE'
 
 * Columns : 
 
-a) INCIDENTID : Unique identifier for an incident log
-b) DATE : Date of incident occurence
-c) X1 -X15 : Anonymized logging parameters
+a) INCIDENTID : Unique identifier for an incident log 
+
+b) DATE : Date of incident occurence 
+
+c) X1 -X15 : Anonymized logging parameters 
+
 d) MULTIPLEOFFENSE : Target inicates if the target id hacked(1) or not(0)
 
 
